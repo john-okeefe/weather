@@ -1,5 +1,7 @@
 # ReduxSimpleStarter
 
+This is the weather app I'm learning
+
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ###Getting Started###
